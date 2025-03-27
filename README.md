@@ -5,6 +5,11 @@ In today's fast-paced digital landscape, businesses have abundant data, but they
 RAG or Retrieval-Augmented-Generation, aims to solve this quandary. This approach bridges the gap between language understanding and your company's unique information ecosystem. RAG is more of a pattern than a technology by itself, and naturally it needs a framework or platform to run with. This is where Microsoft Fabric enters the picture. With Fabric's robust capabilities, we can build RAG solutions that transform how organizations interact with their data. Whether you're looking to create an intelligent chatbot for customer service, a powerful research assistant for your team, or a dynamic knowledge management system, RAG AI on Microsoft Fabric opens a whole new set of possibilities!
 
 Run the .ipynb file in this repository in your Fabric environment as a starter to begin your RAG AI journey in Microsoft Fabric!
+For the exact same results as the code, upload following report files to your Microsoft Fabric OneLake Lakehouse:
+1. 2024 Report: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Microsoft-2024-Environmental-Sustainability-Report.pdf
+2. 2022 Report: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2022-Environmental-Sustainability-Report.pdf
+3. 2021 Report: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2021-Environmental-Sustainability-Report.pdf
+
 
 ## Understanding RAG AI
 
